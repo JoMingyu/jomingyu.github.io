@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PlanB의 짧은 이야기들
+title: PlanB의 서브 블로그
 email: mingyuplanb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  30분만에 짧은 글 하나를 완성해 보고 싶어서
+  짧은 글을 써 보고 싶어서
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
