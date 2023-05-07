@@ -40,4 +40,4 @@ categories: essay
 
 함께 읽으면 좋은 글
 
-- [조금 대충 개발하고 얼른 릴리즈하면 안 될까요?](/essay/2023/04/14/engineering-roughly.html)
+- [조금 대충 개발하고 얼른 릴리즈하면 안 될까요?](/essay/2023/04/21/engineering-roughly.html)
