@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "짧은 글을 써 보고 싶어"
-date:   2023-04-14 13:59:50 +0900
+title: "짧은 글을 써 보고 싶어"
+date: 2023-04-14 13:59:50 +0900
 categories: essay
 ---
 
