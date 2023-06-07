@@ -6,7 +6,7 @@ categories: essay
 ---
 
 최근에 서바이벌 프로그램을 하나 봤습니다.  
-디저트 셰프가 모여 대결하는 [<더 디저트>](https://www.tving.com/contents/P001710707).
+디저트 셰프가 모여 대결하는 <[더 디저트](https://www.tving.com/contents/P001710707)>.
 
 팀 미션을 할 때였습니다.  
 팀마다 리더를 뽑아야 했습니다.  
