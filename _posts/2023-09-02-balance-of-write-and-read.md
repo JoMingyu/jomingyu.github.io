@@ -51,6 +51,6 @@ Outline 만드는 데만 한 세월 걸렸습니다.
 학교 다닐 때 노트정리 하는 거 참 싫어했는데,  
 지금 생각해 보면 꽤 좋은 공부법 같습니다.
 
-최근에 [<무엇이 탁월한 개발자를 만드는가>](https://steady-study.super.site/what-makes-a-great-software-engineer) 라는 글을 감명 깊게 읽었습니다.  
+최근에 [\<무엇이 탁월한 개발자를 만드는가\>](https://steady-study.super.site/what-makes-a-great-software-engineer) 라는 글을 감명 깊게 읽었습니다.  
 사실 이 글의 outline은 논문입니다.  
 글의 내용도 내용이지만, 숙달과 습득을 이렇게 해볼 수도 있겠다 싶었습니다.
